@@ -1,0 +1,17 @@
+html,
+body {
+  box-sizing: border-box;
+  background-color: #ffb5da;
+}
+
+.container {
+  width: 95%;
+  height: 90vh;
+  display: flex;
+}
+
+.container {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
